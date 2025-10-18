@@ -21,7 +21,7 @@ A fast and efficient asynchronous web crawler built with Python that discovers a
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Saiyashwanth7/Web-Crawler.git
    cd web-crawler
    ```
 
