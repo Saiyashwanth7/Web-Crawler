@@ -104,8 +104,4 @@ asyncio.run(main("http://quotes.toscrape.com/"))
 - Support for robots.txt and sitemap.xml
 - Rate limiting and request delays
 - Cookie and session handling
-- JavaScript rendering support
-
-## License
-
-MIT
+- JavaScript rendering support using PlayWright
